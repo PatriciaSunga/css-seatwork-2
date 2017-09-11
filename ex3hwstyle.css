@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family:arial;
+    font-size:20px;
+}
+
+header,footer {
+    background-color: gray;
+    color: white;
+    overflow: hidden;  
+    width: 100%;
+}
+
+div#content {
+    margin: 10px;
+}
+section.row{
+    background-color:black;
+    color:white;
+}
+section.col{
+    width:33%;
+    float:left;
+}
+section.yo1{
+    background-color:lavender;
+    float: left;
+    width: 33.33%;
+}
+section.yo2{
+    background-color:gainsboro;
+    float: left;
+    width: 33.33%;
+}
+section.yo3{
+    background-color:lightgray;
+    float: left;
+    width: 33.33%;
+}
+section.roww{
+    background-color:lightsteelblue;
+    float:left;
+    width:100%;
+}
